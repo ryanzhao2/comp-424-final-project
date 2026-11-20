@@ -1,7 +1,11 @@
-- name: "Your full name as it appears on your transcript"
-  mcgill_id: "Your McGill ID"
-  email: "email@mail.mcgill.ca"
+- name: Ryan Zhao
+  mcgill_id: 261153704
+  email: ryan.zhao@mail.mcgill.ca
 
-- name: "Your full name as it appears on your transcript"
-  mcgill_id: "Your McGill ID"
-  email: "email@mail.mcgill.ca"
+- name: Cihao Zhang
+  mcgill_id: 261296637
+  email: cihao.zhang@mail.mcgill.ca
+
+- name: Zequan Zhou
+  mcgill_id: 261296637
+  email: zequan.zhou@mail.mcgill.ca
